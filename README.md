@@ -1,2 +1,2 @@
-# 自定义sublime-snippet集合(随时更新)
+# 自定义sublime-snippet代码片段集合(随时更新)
 

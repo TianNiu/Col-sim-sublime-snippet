@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@extend %ellipsis;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ellipsis</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>sass_custom_shortcut-placehold-ellipsis</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

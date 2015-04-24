@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include compass-singleimg-multistate(#{"${1:foldername}"}, \$cursor: pointer, \$G_offset-x: 50%, \$G_offset-y: 0px, \$sprite-base-class: false);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>compass-singleimg-multistate</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>sass_custom_shortcut-mixin-compass-singleimg-multistate</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

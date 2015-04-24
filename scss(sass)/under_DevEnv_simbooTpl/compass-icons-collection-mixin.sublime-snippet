@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include compass-icons-collection(#{"${1:foldername}"}, \$G_offset-x: 5px, \$G_offset-y: 5px, \$map-align: 50%);
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>compass-icons-collection</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>sass_custom_shortcut-mixin-compass-icons-collection</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

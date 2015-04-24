@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include sim-inline-block${1:(\$support-ie7: true)};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>inline-block</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>sass_custom_shortcut-mixin-sim-inline-block</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+\$father_${1}: #{&};
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>fa</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>scss-set_father_symbol_to_a_var-to-jump_outsideof_nest</description>
+	<scope>source.scss, source.sass</scope>
+</snippet>

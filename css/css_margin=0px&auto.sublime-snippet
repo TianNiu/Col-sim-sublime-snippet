@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+margin: 0px auto;
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>mato</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<description>margin: 0px auto;</description>
+	<scope>source.scss, source.sass,source.css,text.html</scope>
+</snippet>
